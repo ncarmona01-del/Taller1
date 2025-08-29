@@ -17,7 +17,7 @@ public class Main {
 
     public static void IngresarFrase(Scanner sc) {
         System.out.println("Ingresar Frase");
-        int frase = sc.nextInt();
+        int f = sc.nextInt();
 
     }
 
