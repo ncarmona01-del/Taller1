@@ -18,6 +18,7 @@ public class Main {
     public static void IngresarFrase(Scanner sc) {
         System.out.println("Ingresar Frase");
         int frase = sc.nextInt();
+
     }
 
     public static void VerificarFrase() {
